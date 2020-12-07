@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MeteoDroid Station</string>
+
+    <string name="action_settings">Настройки</string>
+    <string name="temperature_textView">--</string>
+    <string name="degree_textView">°</string>
+    <string name="minus_textView">-</string>
+    <string name="refresh_imageView_description">refreshImageView</string>
+    <string name="place_textView">место</string>
+    <string name="weatherSummary_textView">Weather summary</string>
+    <string name="humidityHeader_textView">ВЛАЖНОСТЬ</string>
+    <string name="humidityValue_textView">---</string>
+    <string name="pressureHeader_textView">ДАВЛЕНИЕ</string>
+    <string name="pressureHeader_textView2">ТЕМПЕРАТУРА АКБ</string>
+    <string name="pressureHeader_textView3">ТЕМПЕРАТУРА</string>
+    <string name="pressureHeader_textView4">ВЫСОТА</string>
+    <string name="pressureHeaderLux_textView">ОСВЕЩЕНИЕ</string>
+    <string name="pressureValue_textView">----</string>
+
+</resources>
